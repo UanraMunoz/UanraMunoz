@@ -1,5 +1,5 @@
 ## Hello, I'm Arnau! 👋
-Data Analyst and Business Analyst with a passion for uncovering insights through data. Great to have you here! 🚀
+Passionate about **Data Analysis** and Business Strategy. It's great to have you here as I delve into the world of a **Data Analyst**. 🚀
 
 
 <!--
