@@ -1,4 +1,4 @@
-### Hello, I am Arnau! It's great to see you here. 👋
+### Hello, I am **Arnau**! It's great to see you here. 👋
 
 <!--
 **UanraMunoz/UanraMunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
